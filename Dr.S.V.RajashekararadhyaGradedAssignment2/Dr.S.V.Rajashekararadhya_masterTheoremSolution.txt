@@ -1,0 +1,8 @@
+
+Answrs
+
+a) Θ(n)
+b) NA
+c) NA
+d) Θ(nlogn)
+e) Θ(n^2)
